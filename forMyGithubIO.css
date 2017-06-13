@@ -1,5 +1,7 @@
 body {
     background-image: url("backGround.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
 }
 h1{
     font-size: 4em;
