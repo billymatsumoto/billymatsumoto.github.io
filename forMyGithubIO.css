@@ -19,7 +19,7 @@ p {
 
 div#youtubevid{
     position:relative;
-    bottom:0px;
+    top: 300px;
     height:0;
     padding-bottom:10%;
 }
