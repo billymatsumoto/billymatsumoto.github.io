@@ -6,3 +6,9 @@ p {
     color: #965e83;
     margin-left: 100px;
 }
+
+#picture{
+    width:300px;
+    height:300px;
+    background: url("pic.jpg");
+}
