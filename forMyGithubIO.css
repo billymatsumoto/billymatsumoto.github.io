@@ -16,14 +16,14 @@ body, html {
     background-size: cover;
 }
 
-.heading{
+span.heading{
     margin: auto;
     position: absolute;
     height:400px;
     width: 600px;
 }
 
-.title{
+span.title{
     display: block;
     text-align: center;
     color: white;
