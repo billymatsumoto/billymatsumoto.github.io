@@ -20,7 +20,7 @@ div.heading{
     margin: auto;
     position: absolute;
     height:400px;
-    width: 600px;
+    width: 900px;
     top:0px; bottom:0px; left:0px; right:0px;
 }
 
@@ -28,9 +28,19 @@ span.title{
     display: block;
     text-align: center;
     color: white;
-    font-size: 60pt;
+    font-size: 77pt;
+    font-family:impact;
+}
+
+span.subTitle{
+    display: block;
+    text-align: center;
+    color: white;
+    font-size: 22pt;
     font-family: big john;
 }
 
-
-
+div.button{
+    display: block;
+    text-align: center;
+}
