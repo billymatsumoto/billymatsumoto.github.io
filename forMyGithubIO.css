@@ -16,7 +16,7 @@ body, html {
     background-size: cover;
 }
 
-span.heading{
+div.heading{
     margin: auto;
     position: absolute;
     height:400px;
