@@ -17,6 +17,20 @@ body, html {
     opacity: .82;
 }
 
+.bgs {
+    /* The image used */
+    background-image: url("stage.JPG");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .82;
+}
+
 div.heading{
     margin: auto;
     position: absolute;
@@ -64,4 +78,7 @@ button{
 button:hover{
     background-color: rgba(255,255,255,1);
     color: black;
+}
+button.picture{
+    background-image: url("pic.jpg");
 }
